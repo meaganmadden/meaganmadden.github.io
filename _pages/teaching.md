@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### UNC Chapel Hill
+### UNC-Chapel Hill
 Instructor
 * Econ 345 - Public Policy and Business
 
