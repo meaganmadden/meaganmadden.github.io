@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meagan Madden | Economics PhD Student UNC-Chapel Hill"
+title                    : "Meagan Madden"
 title_separator          : "-"
 name                     : &name "Meagan Madden"
 description              : &description "Fourth-year Economics PhD student studying health/IO at UNC-Chapel Hill"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : meag_madden
   vine             :
   weibo            :
   xing             :
