@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Meagan Madden"
 title_separator          : "-"
 name                     : &name "Meagan Madden"
-description              : &description "Fourth-year Economics PhD student studying health/IO at UNC-Chapel Hill"
+description              : &description "Economics PhD student at UNC-Chapel Hill"
 url                      : https://meaganmadden.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meaganmadden/meaganmadden.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Meagan Madden"
   avatar           : "profile.JPG"
-  bio              : "Fourth-year Economics PhD student studying health/IO at UNC-Chapel Hill"
-  location         : "Chapel Hill, NC"
+  bio              : "Economics PhD student at UNC-Chapel Hill"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
