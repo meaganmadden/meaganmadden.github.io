@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### UNC-Chapel Hill
+## UNC-Chapel Hill
 ### Instructor
 * Econ 345 - Public Policy and Business
 
@@ -13,6 +13,6 @@ author_profile: true
 * Econ 101 - Introduction to Economics
 * Econ 400 - Introduction to Data Science and Econometrics
 
-### Duke University
+## Duke University
 ### Teaching Assistant
 * Econ 605 - Advanced Microeconomic Theory
