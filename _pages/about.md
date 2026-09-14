@@ -10,4 +10,4 @@ redirect_from:
 
 I am a PhD candidate in Economics at [UNC-Chapel Hill](https://econ.unc.edu/graduate/). My fields are health economics and industrial organization, and my current research focuses on insurance and pharmaceutical markets.
 
-You can find my CV [here](/files/Madden_CV.pdf). My email is [mkmadden@unc.edu](mailto:mkmadden@unc.edu).
+I am on the 2026--2027 Job Market. You can find my CV [here](/files/Madden_CV.pdf). My email is [mkmadden@unc.edu](mailto:mkmadden@unc.edu).
