@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Meagan Madden"
-  avatar           : "profile.JPG"
+  avatar           : "headshot_1.JPG"
   bio              : "Economics PhD student at UNC-Chapel Hill"
   location         : 
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "meaganmadden"
+  github           : # "meaganmadden"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : meag_madden
+  twitter          : # meag_madden
   vine             :
   weibo            :
   xing             :
